@@ -29,8 +29,8 @@ export default new Vuex.Store({
     storys: [
       {url:`/foto/story/(1).jpg`, description:"Pozzo"},
       {url:`/foto/story/(2).jpg`, description:"Alfa 155"},
-      {url:`/foto/story/(3).jpg`, description:"Eclissi"},
-      {url:`/foto/story/(4).jpg`, description:"Giochi di fuoco"},
+      {url:`/foto/story/(3).jpg`, description:"Giochi di fuoco"},
+      {url:`/foto/story/(4).jpg`, description:"Eclissi"},
     ],
 
     //MainNav

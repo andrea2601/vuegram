@@ -27,9 +27,9 @@
       </v-flex>
     </v-layout>
     <v-layout class="mt-4 subtitle-2 grey--text">
-      Uzir is a freelance developer based in Cedar Rapids IA, Always interested in learning about new Technologies and projects!
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora atque amet iste beatae optio repellendus deleniti nemo odio.
       <br />
-      <br />Moved to the US 7 years ago for college and now working as a full time software developer and helping people reach their goals through entrepreneurship!
+      <br />Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam iste repellendus sapiente nobis at minus maxime aliquid libero explicabo.
     </v-layout>
     <v-layout class="mt-5">
       <v-flex>
