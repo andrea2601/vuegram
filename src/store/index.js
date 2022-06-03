@@ -24,12 +24,16 @@ export default new Vuex.Store({
       {url:`/foto/feed/(9).jpg`, description:"Barca"},
       {url:`/foto/feed/(10).jpg`, description:"Mucca Muuuu"},
       {url:`/foto/feed/(11).jpg`, description:"Mustang"},
+      {url:`/foto/story/(1).jpg`, description:"Pozzo"},
       ],
 
     storys: [
       {url:`/foto/story/(1).jpg`, description:"Pozzo"},
+      {url:`/foto/story/(2).jpg`, description:"Alfa 155"},
       {url:`/foto/story/(3).jpg`, description:"Giochi di fuoco"},
       {url:`/foto/story/(4).jpg`, description:"Eclissi"},
+      {url:`/foto/feed/(8).jpg`, description:"Milano"},
+      {url:`/foto/feed/(11).jpg`, description:"Mustang"},
     ],
 
     //MainNav
